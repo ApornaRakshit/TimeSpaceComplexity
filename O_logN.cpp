@@ -4,6 +4,7 @@ int main()
 {
     int n;
     cin>>n;
+    
     //while(n>0)    //O(logN)
     // {
     //     int digit=n%10;
